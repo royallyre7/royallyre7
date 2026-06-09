@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**royallyre7/royallyre7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 -# Hi there 👋 I'm Aung Zaw Tun
 
@@ -153,4 +150,4 @@ I enjoy solving complex technical problems, automating repetitive work, and buil
 
 ⭐ If you're interested in networking, cloud infrastructure, automation, or security engineering, feel free to connect.
 
--->
+
