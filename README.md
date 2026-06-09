@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ### Senior Network Engineer | CCIE Enterprise Infrastructure | Cloud & Automation Enthusiast
 
-Network infrastructure doesn't fail quietly — and for more than **10 years**, I've been designing, operating, and automating the systems that keep businesses running.
+Network infrastructure doesn't fail quietly — and for more than **15Singapore years**, I've been designing, operating, and automating the systems that keep businesses running.
 
 Currently based in **Auckland, New Zealand**, I support large-scale global enterprise infrastructure spanning multiple continents, hybrid cloud environments, and multi-vendor network ecosystems.
 
